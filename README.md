@@ -36,6 +36,7 @@ JavaScript, Angular (¡el frontend me llama mucho la atención!)
 I'm a recent Software Engineering graduate with experience in cybersecurity thanks to my university internship. 
 During that time, I delved into the world of Red Team operations, learning about penetration testing, phishing, and security report writing.  
 Although cybersecurity was my gateway into the tech world, web and application development have also caught my interest. 
+
 I love learning new things and sharing knowledge with the community.  
 
 ## Technologies & Tools 🛠  
@@ -52,5 +53,6 @@ JavaScript, Angular (I'm really drawn to frontend development!)
 - **GitHub:** carlalorido  
 - **LinkedIn:** https://www.linkedin.com/in/carlaloridoosuna    
 - **Email:**  carlalorido@gmail.com
+
 Thanks for visiting my profile! 😊  
 
